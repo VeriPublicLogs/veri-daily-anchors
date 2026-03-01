@@ -1,0 +1,10 @@
+{
+  "date_utc": "2026-02-28",
+  "proof_count": 1,
+  "proof_hashes_sorted_sha256": [
+    "84c96023c5e58a8c8ba6adcc2dec724225b06f63d4c595a01b19b75e6c00e455"
+  ],
+  "merkle_root_sha256": "84c96023c5e58a8c8ba6adcc2dec724225b06f63d4c595a01b19b75e6c00e455",
+  "generated_at_utc": "2026-03-01T00:00:58.084423+00:00 UTC",
+  "veri_version": "veri-proof-v1"
+}
