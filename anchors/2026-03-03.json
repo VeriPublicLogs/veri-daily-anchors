@@ -1,0 +1,18 @@
+{
+  "date_utc": "2026-03-03",
+  "proof_count": 9,
+  "proof_hashes_sorted_sha256": [
+    "1a1c6b2575bcb3362a62d25d3b8b3e28f0933e7033c35c665db9e0de9afa2383",
+    "6398d2691ad09d8e906c689818bdaca7c5c11a2ed7ffb36eacd31864cdaf8adb",
+    "6b2d5acf36fd94ef2a7d361caf2cab60bda7db96d446ab125c9161a119006e43",
+    "9a83b6babbdc6ec29fc805b50ea68e991a3925ef3e0912b02c64d1a289488c2e",
+    "c98e3f8354ff74c49d3e03fafd98a31c97f55ddd7be36e5d82a67a7b01386940",
+    "c98e3f8354ff74c49d3e03fafd98a31c97f55ddd7be36e5d82a67a7b01386940",
+    "d651d78d3a0910270b99985aa3d863c7a24b94f525b2c975769cfae066514749",
+    "e5a66d81a0c91105891acd1220ba98c3bea925ca13339f0990dc650a4dc7433b",
+    "f4f1a4cb6e8e6b5b8623aba48b5549ed67f5a8e0349ee5caf641caae7c6b875b"
+  ],
+  "merkle_root_sha256": "10315928588d7eb2db39640f2bde0ef92bf16ecb7bd2425d24f309f11cd9cff2",
+  "generated_at_utc": "2026-03-04T00:05:14.803980+00:00 UTC",
+  "veri_version": "veri-proof-v1"
+}
