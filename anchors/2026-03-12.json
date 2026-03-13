@@ -1,0 +1,17 @@
+{
+  "date_utc": "2026-03-12",
+  "proof_count": 8,
+  "proof_hashes_sorted_sha256": [
+    "0315ab8775a2546bf6245d7c580fc1dc2169fee718ba7e1428a02702edcf81da",
+    "3eef100c59d8bd6e0bccc35c54aa4b4d97bac6f3e491e0518d94bec1aaf2aa0a",
+    "72ce537f8a62c63c2abac1571ed18891b8b40c9912dfe6b7c31195accfdcd2e6",
+    "7b6e35029fe9c919af50433114174c2073b99666b5b0129ec04ef93df75c5a9d",
+    "8105c4a79013b3d20787229259d84fa3cc3b1fcf07852de49b788d5c5c0114ed",
+    "9a7728430668d1287008e70f164446569dd94b8f9e0e3a53458ea2954bc9ea00",
+    "e8667c5234f0b3ce0d9fa3e19aab5b6c90030ddfacafe6ad4db0a9e5a66270b7",
+    "e8667c5234f0b3ce0d9fa3e19aab5b6c90030ddfacafe6ad4db0a9e5a66270b7"
+  ],
+  "merkle_root_sha256": "7a7fa386165858636df500af11e139b8f1f0f8ea619021b6a83f3421f0f43226",
+  "generated_at_utc": "2026-03-13T00:02:45.873715+00:00 UTC",
+  "veri_version": "veri-proof-v1"
+}
